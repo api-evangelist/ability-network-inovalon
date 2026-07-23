@@ -1,0 +1,17 @@
+# ABILITY Network (Inovalon)
+
+> ABILITY Network is a healthcare SaaS business acquired by Inovalon in 2018, now delivered as part of the cloud-based Inovalon ONE Platform. It provides US healthcare providers with medical billing and claims management, eligibility verification, revenue cycle management, clinical quality reporting, and workforce/staffing and care coordination, backed by large national healthcare datasets and analytics.
+
+## Developer
+- [Inovalon Developer Portal](https://developer.inovalonone.com/): Authenticated Inovalon ONE developer portal exposing sandbox, staging, and live environments.
+- [Support](https://support.inovalon.com/): Inovalon customer and developer support center.
+
+## Company
+- [ABILITY Network](https://www.abilitynetwork.com/): Provider-facing product marketing site.
+- [Inovalon](https://www.inovalon.com/): Parent company — data-driven healthcare platform.
+- [Blog](https://www.inovalon.com/our-company/blog/): Company news and insights.
+- [GitHub](https://github.com/Inovalon): Inovalon GitHub organization.
+
+## Legal
+- [Privacy Policy](https://www.inovalon.com/privacy-policy/)
+- [Terms of Use](https://www.inovalon.com/terms-of-use/)
