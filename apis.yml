@@ -71,6 +71,11 @@ maintainers:
 - FN: APIs.json
   email: info@apis.io
 common:
+- type: ParentCompany
+  url: https://apis.io/providers/inovalon/
+  name: Inovalon
+  x-relationship: acquired
+  x-evidence: "ABILITY Network is a healthcare SaaS business acquired by Inovalon in 2018 and now delivered as part of the cloud-based Inovalon ONE Platform."
 - type: Website
   url: https://www.abilitynetwork.com/
 - type: Website
